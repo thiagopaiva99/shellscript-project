@@ -1,0 +1,4 @@
+19:58:58.367482 IP 10.31.6.107.46338 > gru09s10-in-f67.1e100.net.http: Flags [.], ack 851338426, win 1444, options [nop,nop,TS val 1089024 ecr 3474580762], length 0
+19:59:14.367434 IP 10.31.6.107.42582 > yk-in-f99.1e100.net.http: Flags [.], ack 841051727, win 262, options [nop,nop,TS val 1093024 ecr 421920001], length 0
+19:59:14.367457 IP 10.31.6.107.46500 > gru09s10-in-f67.1e100.net.http: Flags [.], ack 1425498115, win 262, options [nop,nop,TS val 1093024 ecr 1153881753], length 0
+
